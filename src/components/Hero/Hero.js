@@ -20,7 +20,7 @@ const Hero = () => (
           I am primarily a MERN stack developer who is always working to expand
           my knowledge and solve problems.
         </SectionText>
-        <Button onClick={() => (window.location = "https://google.com")}>Learn More</Button>
+        <Button onClick={() => (window.location = "#about")}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
